@@ -1,2 +1,2 @@
 @echo off
-doskey wednesday=python D:\My\Projects\Wednesday\Wednesday.py
+doskey wednesday=python path to wednesday.py
