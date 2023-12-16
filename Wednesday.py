@@ -5,9 +5,9 @@ import platform
 import getpass
 
 
-os.system("type wed.txt")
+os.system("type path_to_wed.txt")
 
-api_key = "AIzaSyDiASYl6QZZ-uEOssfFt0vYG3AN_PTxfyk"
+api_key = "YOUR_API_KEY_FOR_GEMINI"
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-pro')
 
@@ -60,7 +60,7 @@ def listen(user):
 def wish_me(user):
     if not user:
         user = input("Username cannot be empty. Please enter your username: ")
-    if user=="Morpheus":
+    if user=="Admin_User":
         admin_access()
     else:
         speak(f"Hello {user}")
@@ -70,7 +70,7 @@ def wish_me(user):
 def admin_access():
     speak("Enter your passcode")
     pass_code = getpass.getpass(" ")
-    if pass_code.lower() != "wednesday":
+    if pass_code.lower() != "Set_Pass_code":
         print("Incorrect passcode. Access denied.")
         raise SystemExit()
     else:
@@ -148,8 +148,8 @@ def output(statement, user):
             user_input = input(f"{user}: ").lower()
             
             if user_input == "exit":
-                print("Wednesday: Exiting GPT")
-                speak("Wednesday: Exiting GPT")
+                print("Wednesday: Exiting gemini")
+                speak("Wednesday: Exiting gemini")
                 break
             if not user_input:
                 continue
