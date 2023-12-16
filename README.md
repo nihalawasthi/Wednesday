@@ -17,8 +17,9 @@
 <h4>Making a command prompt Alias</h4>
 <h5>Linux</h5>
 <ul>
-  <li>open Terminal</li>
-  <li>alias wednesday=python3 Path_to_Wednesday.py</li>
+  <li>open .bashrc</li>
+  <li>add "alias wednesday=python3 Path_to_Wednesday.py" in bashrc</li>
+  <li>save the changes</li>
   <li>You are all set. now to run wednesday just open terminal and type wednesday</li>
 </ul>
 <h5>Windows</h5>
