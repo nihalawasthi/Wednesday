@@ -1,5 +1,7 @@
 # Wednesday
-
+<p>
+  "Wednesday: Your Personal Air Tool Chatbot. Streamlining communication and efficiency, Wednesday is your virtual assistant for all things air tool-related. Offering real-time guidance, troubleshooting, and expert advice, Wednesday simplifies your air tool usage, ensuring seamless operations and enhanced productivity. Say hello to the future of air tool assistance!"
+</p>
 # Installation
 <h4>Installing neccessary Libraries</h4>
 <ul>
