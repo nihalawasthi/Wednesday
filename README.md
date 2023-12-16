@@ -23,7 +23,7 @@
 <ul>
   <li>Replace path of Wed.txt in Wednesday.py & path of Wednesday.py in cmd.bat</li>
   <li>Open Cmd Properties</li>
-  <li>add the path of cmd.bat in target under Shortcut section <br>
+  <li>add the path of cmd.bat in target under Shortcut section as shown in example<br>
     Example: /k "C:\Users\Nihal\cmd.bat"  </li>
   <img width="289" alt="image" src="https://github.com/nihalawasthi/Wednesday/assets/137594290/b9e4a868-bc70-43f9-bb66-720e0c21932f">
 </ul>
