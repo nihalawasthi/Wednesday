@@ -1,6 +1,6 @@
 # Wednesday
 <p>
-"Introducing 'Wednesday' – your AI companion redefining interaction! Wednesday, the innovative chatbot AI tool, simplifies tasks, assists, and engages seamlessly. Enhance productivity, streamline communication, and unlock a new era of intuitive assistance with Wednesday. Say hello to efficiency, intelligence, and convenience rolled into one powerful tool!"
+  Introducing Wednesday – your AI companion redefining interaction! Wednesday, the innovative chatbot AI tool, simplifies tasks, assists, and engages seamlessly. Enhance productivity, streamline communication, and unlock a new era of intuitive assistance with Wednesday. Say hello to efficiency, intelligence, and convenience rolled into one powerful tool!
 </p>
 # Installation
 <h4>Installing neccessary Libraries</h4>
