@@ -17,7 +17,9 @@
 <h4>Making a command prompt Alias</h4>
 <h5>Linux</h5>
 <ul>
-  <li>Direct run with Python</li>
+  <li>open Terminal</li>
+  <li>alias wednesday=python3 Path_to_Wednesday.py</li>
+  <li>You are all set. now to run wednesday just open terminal and type wednesday</li>
 </ul>
 <h5>Windows</h5>
 <ul>
@@ -26,4 +28,5 @@
   <li>add the path of cmd.bat in target under Shortcut section as shown in example<br>
     Example: /k "C:\Users\Nihal\cmd.bat"  </li>
   <img width="289" alt="image" src="https://github.com/nihalawasthi/Wednesday/assets/137594290/b9e4a868-bc70-43f9-bb66-720e0c21932f">
+  <li>You are all set. now to run wednesday just open cmd and type wednesday</li>
 </ul>
